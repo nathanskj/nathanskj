@@ -1,11 +1,11 @@
-# Hi, I'm Nathan 👋
+# Hi, I'm Nathan 
 
-🎓 Computer Science Graduate | 🤖 Passionate about AI & Machine Learning  
-📌 Currently starting my journey building real-world projects to grow my portfolio
+First-Class Computer Science Graduate | Passionate about AI & Machine Learning  
+Building real-world projects to grow my portfolio and practical experience.
 
 ---
 
-### 🧠 Interests
+### Interests
 - Artificial Intelligence
 - Machine Learning
 - Large Language Models (LLMs)
@@ -13,22 +13,21 @@
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python, Java
-- **ML Tools:** scikit-learn, pandas, NumPy, Matplotlib *(early-stage learning)*
-- **Other Tools:** Git, VS Code, Linux
+### Tech Stack
+- **Languages:** Python, Java, HTML, CSS
+- **ML Tools:** scikit-learn, pandas, NumPy, Matplotlib, Ollama, Jupyter Notebooks, Flask *(beginner)*
+- **Other Tools:** Git, VS Code, Linux *(basic)* 
 
 ---
 
-### 🚧 Work in Progress
-I'm currently starting my first round of portfolio projects with a focus on:
-- Hands-on ML projects (regression, classification, real-world datasets)
-- Experimenting with LLM tools like **Ollama** and **LangChain**
-- Exploring real-world applications of AI to boost productivity and solve everyday problems
+### Current Focus
+-Developing hands-on machine learning projects involving regression, classification, and real-world datasets
+-Experimenting with LLMs and AI agent frameworks such as LangChain and Hugging Face tools
+-Exploring AI applications to solve practical problems and improve productivity
 
 ---
 
-### 📂 Projects (Coming Soon)
+### Projects (Coming Soon)
 I'm actively working on building projects from scratch. In the meantime, I may upload select coursework that reflects my skills and understanding in:
 - Machine learning foundations
 - Object-oriented programming in Java
@@ -36,7 +35,7 @@ I'm actively working on building projects from scratch. In the meantime, I may u
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - [LinkedIn](https://linkedin.com/in/nathanskj)
 
 ---
