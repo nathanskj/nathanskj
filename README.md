@@ -21,9 +21,9 @@ Building real-world projects to grow my portfolio and practical experience.
 ---
 
 ### Current Focus
--Developing hands-on machine learning projects involving regression, classification, and real-world datasets
--Experimenting with LLMs and AI agent frameworks such as LangChain and Hugging Face tools
--Exploring AI applications to solve practical problems and improve productivity
+- Developing hands-on machine learning projects involving regression, classification, and real-world datasets
+- Experimenting with LLMs and AI agent frameworks such as LangChain and Hugging Face tools
+- Exploring AI applications to solve practical problems and improve productivity
 
 ---
 
