@@ -1,43 +1,35 @@
-# Hi, I'm Nathan 
+### Platform Engineer · AI Builder
 
-First-Class Computer Science Graduate | Passionate about AI & Machine Learning  
-Building real-world projects to grow my portfolio and practical experience.
+I work in platform engineering and build AI products on the side.
 
----
-
-### Interests
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Applied Algorithms & Data Structures
+Currently working on an interconnected suite of AI tools — starting with a prompt engineering studio and an idea validation lab, with more in the pipeline.
 
 ---
 
-### Tech Stack
-- **Languages:** Python, Java, HTML, CSS
-- **ML Tools:** scikit-learn, pandas, NumPy, Matplotlib, Ollama, Jupyter Notebooks, Flask *(beginner)*
-- **Other Tools:** Git, VS Code, Linux *(basic)* 
+**What I work with**
+
+```
+Languages     TypeScript · Python
+Frontend      React · Tailwind CSS · Vite
+Backend       Node.js · Express · SQLite
+AI            Claude API · Anthropic SDK · LLM agent frameworks
+Infra         Kubernetes · Terraform · Azure · Docker · Helm
+```
 
 ---
 
-### Current Focus
-- Developing hands-on machine learning projects involving regression, classification, and real-world datasets
-- Experimenting with LLMs and AI agent frameworks such as LangChain and Hugging Face tools
-- Exploring AI applications to solve practical problems and improve productivity
+**Building**
+
+- [PromptForge](https://github.com/nathanskj/PromptForge) — Local-first prompt engineering studio. Score, rewrite, and manage prompts powered by Claude.
+- [IdeaForge](https://github.com/nathanskj/IdeaForge) — Idea validation lab. AI-powered analysis, red-team sessions, and validation pipelines.
+- More in progress.
 
 ---
 
-### Projects (Coming Soon)
-I'm actively working on building projects from scratch. In the meantime, I may upload select coursework that reflects my skills and understanding in:
-- Machine learning foundations
-- Object-oriented programming in Java
-- Data analysis with Python
+**Interests**
+
+Platform engineering · AI agents · Building products · Investing
 
 ---
 
-### Let's Connect
-- [LinkedIn](https://linkedin.com/in/nathanskj)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanskj&show_icons=true&hide=stars&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanskj&show_icons=true&hide=stars&theme=default&hide_border=true)
